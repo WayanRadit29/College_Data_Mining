@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+scikit-learn
+scipy
+category-encoders
+imbalanced-learn
+yellowbrick
+statsmodels
+dask
